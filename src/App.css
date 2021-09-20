@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;600&display=swap');
+
+
+h2,h1,h4,h5,h6,p{
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+h1, h2{
+  font-weight: 600;
+}
+.post-form{
+  width: 50%;
+  margin: 0 auto;
+}
+.btn-dark {
+  margin-left: 0.5rem;
+}
+.card-body img {
+  margin-top: 30px;
+  width: 600px;
+  height: 400px;
+  object-fit: cover;
+  border: 1px solid #aea6a6;
+  padding: 15px;
+}
+button.btn.btn-primary {
+  margin-left: 0.3rem;
+}
+h3.detail_main {
+  font-weight: 400;
+  font-size: 24px;
+  padding: 15px 0;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+h5.detail_desc {
+  font-weight: 400;
+  font-size: 18px;
+  padding: 15px 0;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+img.view_img {
+  width: 400px;
+  height: 300px;
+  object-fit: cover;
+}
+.spinner-border{
+  margin-top:3% ;
+  width: 2.5rem;
+  height: 2.5rem;
+
+}
